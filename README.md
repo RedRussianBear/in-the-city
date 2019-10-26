@@ -9,14 +9,21 @@ It's name is New Babylon, and this is its story.
 
 ## I. The City
 
+## II. The Powers
 
+### The Consolidated Concerns Corporation
 
+### The Orenkov Outfit
+
+### The Tumult
 
 ## III. That Night
 
 People die by the hundreds every night in New Babylon. People are shot, people are run over by transmechs, people are crushed by machinery,
 people are suffocated by toxic gases. And a few succumb to natural causes. But not a soul knows why, of all the bars in all the sleepy
-neighborhoods of all the planets in the whole dark tomb of space, it was that one bar, that one night, that errupted in green flames, 
+neighborhoods of all the planets in the whole dark tomb of space, it was that one bar, that one night, that errupted in green flames 
 killing all inside. What authorities could be found to express an interest couldn't fathom an explanation for the 64 dead at Harlock's
 Dive at the intersection of Autofactory Street and 47th Avenue, Level III. With every corpse and seemingly every shred of evidence
 incinerated, the investigation halted.
+
+
